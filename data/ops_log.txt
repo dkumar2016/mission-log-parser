@@ -1,0 +1,500 @@
+2026-03-01T00:01:27Z [ADCS] INFO attitude nominal
+2026-03-01T00:03:51Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T00:05:05Z [OBC] INFO housekeeping cycle complete
+2026-03-01T00:06:22Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T00:07:05Z [OBC] INFO time sync complete
+2026-03-01T00:11:09Z [EPS] INFO solar array current nominal
+2026-03-01T00:11:42Z [EPS] INFO solar array current nominal
+2026-03-01T00:14:34Z [EPS] INFO solar array current nominal
+2026-03-01T00:15:56Z [ADCS] INFO sun sensor update received
+2026-03-01T00:19:22Z [OBC] INFO housekeeping cycle complete
+2026-03-01T00:23:47Z [OBC] INFO command accepted
+2026-03-01T00:24:57Z [OBC] INFO time sync complete
+2026-03-01T00:28:32Z [OBC] INFO housekeeping cycle complete
+2026-03-01T00:29:25Z [PROP] INFO valve 1 closed
+2026-03-01T00:30:35Z [EPS] WARN bus voltage low 26.4 V
+2026-03-01T00:33:27Z [THERMAL] INFO heater 1 on
+2026-03-01T00:35:20Z [COMMS] INFO carrier lock acquired
+2026-03-01T00:38:06Z [PROP] WARN tank pressure drifting low
+2026-03-01T00:40:03Z [OBC] INFO housekeeping cycle complete
+2026-03-01T00:44:29Z [THERMAL] INFO heater 1 off
+2026-03-01T00:46:51Z [PROP] INFO tank pressure nominal
+2026-03-01T00:49:18Z [ADCS] WARN pointing error above 0.1 deg
+2026-03-01T00:52:05Z [ADCS] INFO star tracker lock acquired
+2026-03-01T00:55:16Z [EPS] INFO solar array current nominal
+2026-03-01T00:59:40Z [EPS] INFO battery charge nominal
+2026-03-01T01:02:24Z [PROP] INFO thruster warm-up complete
+2026-03-01T01:06:18Z [COMMS] INFO downlink session started
+2026-03-01T01:11:08Z [THERMAL] INFO temperatures nominal
+2026-03-01T01:12:34Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T01:16:40Z [OBC] INFO command accepted
+2026-03-01T01:21:09Z [OBC] INFO time sync complete
+2026-03-01T01:21:44Z [PROP] INFO thruster warm-up complete
+2026-03-01T01:24:30Z [PROP] INFO valve 1 closed
+2026-03-01T01:28:42Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T01:31:26Z [OBC] INFO time sync complete
+2026-03-01T01:32:50Z [PROP] INFO thruster warm-up complete
+2026-03-01T01:37:39Z [OBC] INFO command accepted
+2026-03-01T01:39:31Z [OBC] ERROR watchdog reset
+2026-03-01T01:42:46Z [THERMAL] INFO heater 1 on
+2026-03-01T01:45:53Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T01:47:03Z [ADCS] INFO attitude nominal
+2026-03-01T01:48:37Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T01:50:31Z [COMMS] INFO carrier lock acquired
+2026-03-01T01:54:37Z [EPS] WARN battery temperature approaching limit
+2026-03-01T01:57:46Z [THERMAL] ERROR heater 2 stuck on
+2026-03-01T02:02:00Z [OBC] INFO housekeeping cycle complete
+2026-03-01T02:04:25Z [ADCS] INFO star tracker lock acquired
+2026-03-01T02:06:52Z [OBC] INFO housekeeping cycle complete
+2026-03-01T02:07:52Z [EPS] INFO battery charge nominal
+2026-03-01T02:11:11Z [ADCS] INFO sun sensor update received
+2026-03-01T02:15:49Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T02:20:21Z [EPS] INFO solar array current nominal
+2026-03-01T02:22:28Z [ADCS] INFO sun sensor update received
+2026-03-01T02:25:59Z [THERMAL] INFO heater 1 off
+2026-03-01T02:26:56Z [PROP] INFO thruster warm-up complete
+2026-03-01T02:28:16Z [ADCS] INFO sun sensor update received
+2026-03-01T02:29:41Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T02:34:00Z [EPS] INFO solar array current nominal
+2026-03-01T02:38:26Z [EPS] WARN battery temperature approaching limit
+2026-03-01T02:42:42Z [OBC] INFO time sync complete
+2026-03-01T02:43:19Z [ADCS] WARN reaction wheel 2 speed high
+2026-03-01T02:45:14Z [THERMAL] INFO temperatures nominal
+2026-03-01T02:49:09Z [ADCS] INFO attitude nominal
+2026-03-01T02:52:58Z [COMMS] WARN packet retransmissions high
+2026-03-01T02:55:54Z [THERMAL] INFO heater 1 off
+2026-03-01T03:00:33Z [EPS] INFO battery charge nominal
+2026-03-01T03:01:32Z [OBC] INFO housekeeping cycle complete
+2026-03-01T11:00:00Z [EPS] WARN
+2026-03-01T03:04:42Z [ADCS] INFO sun sensor update received
+2026-03-01T03:09:29Z [OBC] INFO time sync complete
+2026-03-01T03:10:40Z [EPS] INFO battery charge nominal
+2026-03-01T03:13:10Z [THERMAL] INFO heater 1 off
+2026-03-01T03:15:46Z [OBC] INFO time sync complete
+2026-03-01T03:16:57Z [THERMAL] INFO heater 1 off
+2026-03-01T03:21:54Z [COMMS] WARN signal strength below threshold
+2026-03-01T03:25:04Z [EPS] INFO battery charge nominal
+2026-03-01T03:28:07Z [THERMAL] INFO temperatures nominal
+2026-03-01T03:28:41Z [THERMAL] INFO heater 1 off
+2026-03-01T03:30:02Z [ADCS] INFO star tracker lock acquired
+2026-03-01T03:32:47Z [EPS] WARN battery temperature approaching limit
+2026-03-01T03:35:22Z [COMMS] INFO downlink session complete
+2026-03-01T03:38:26Z [OBC] ERROR watchdog reset
+2026-03-01T03:41:29Z [PROP] INFO tank pressure nominal
+2026-03-01T03:44:14Z [ADCS] WARN reaction wheel 2 speed high
+2026-03-01T03:47:03Z [COMMS] INFO carrier lock acquired
+2026-03-01T03:50:28Z [EPS] INFO solar array current nominal
+2026-03-01T03:55:16Z [THERMAL] INFO temperatures nominal
+2026-03-01T03:56:33Z [PROP] INFO valve 1 closed
+2026-03-01T03:57:25Z [ADCS] INFO attitude nominal
+2026-03-01T04:00:09Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T04:04:17Z [OBC] INFO housekeeping cycle complete
+2026-03-01T04:06:03Z [OBC] INFO command accepted
+2026-03-01T04:07:48Z [THERMAL] INFO heater 1 on
+2026-03-01T04:11:24Z [ADCS] WARN reaction wheel 2 speed high
+2026-03-01T04:14:01Z [PROP] INFO thruster warm-up complete
+2026-03-01T04:17:59Z [OBC] INFO housekeeping cycle complete
+2026-03-01T04:19:52Z [EPS] WARN battery temperature approaching limit
+2026-03-01T04:21:53Z [PROP] WARN thruster 3 temperature high
+2026-03-01T04:24:30Z [COMMS] INFO carrier lock acquired
+2026-03-01T04:25:55Z [THERMAL] WARN radiator temperature low
+2026-03-01T04:28:18Z [EPS] WARN bus voltage low 26.4 V
+2026-03-01T04:31:47Z [COMMS] WARN signal strength below threshold
+2026-03-01T04:34:11Z [ADCS] INFO sun sensor update received
+2026-03-01T04:37:29Z [COMMS] WARN packet retransmissions high
+2026-03-01T04:40:58Z [PROP] INFO thruster warm-up complete
+2026-03-01T04:44:17Z [ADCS] INFO sun sensor update received
+2026-03-01T04:46:18Z [OBC] ERROR command rejected: checksum error
+2026-03-01T04:47:07Z [ADCS] INFO sun sensor update received
+2026-03-01T04:50:17Z [THERMAL] INFO heater 1 off
+2026-03-01T04:51:46Z [THERMAL] WARN payload temperature high
+2026-03-01T04:54:26Z [ADCS] INFO attitude nominal
+2026-03-01T04:59:22Z [OBC] INFO time sync complete
+2026-03-01T05:01:32Z [COMMS] INFO carrier lock acquired
+2026-03-01T05:04:51Z [OBC] INFO housekeeping cycle complete
+2026-03-01T05:07:54Z [OBC] INFO command accepted
+2026-03-01T05:11:11Z [THERMAL] INFO heater 1 off
+2026-03-01T05:12:46Z [EPS] INFO solar array current nominal
+2026-03-01T05:14:45Z [OBC] INFO command accepted
+2026-03-01T05:15:15Z [COMMS] INFO downlink session complete
+2026-03-01T05:18:29Z [THERMAL] INFO heater 1 off
+2026-03-01T05:20:48Z [OBC] INFO time sync complete
+2026-03-01T05:22:44Z [PROP] INFO thruster warm-up complete
+2026-03-01T05:26:05Z [ADCS] WARN reaction wheel 2 speed high
+2026-03-01T05:29:13Z [EPS] WARN battery temperature approaching limit
+2026-03-01T05:29:55Z [ADCS] INFO sun sensor update received
+2026-03-01T05:31:02Z [THERMAL] INFO heater 1 off
+2026-03-01T05:33:11Z [PROP] INFO valve 1 closed
+2026-03-01T05:37:05Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T05:37:37Z [ADCS] INFO attitude nominal
+2026-03-01T05:39:37Z [PROP] INFO tank pressure nominal
+2026-03-01T05:42:14Z [ADCS] INFO sun sensor update received
+2026-03-01T05:45:26Z [THERMAL] INFO heater 1 off
+2026-03-01T05:50:14Z [THERMAL] WARN radiator temperature low
+2026-03-01T05:52:05Z [PROP] WARN thruster 3 temperature high
+2026-03-01T05:54:47Z [EPS] WARN bus voltage low 26.4 V
+2026-03-01T05:59:43Z [THERMAL] INFO heater 1 on
+2026-03-01T06:03:58Z [ADCS] INFO attitude nominal
+2026-03-01T06:06:47Z [COMMS] INFO carrier lock acquired
+2026-03-01T06:07:58Z [EPS] INFO solar array current nominal
+2026-03-01T06:09:46Z [PROP] INFO valve 1 closed
+2026-03-01T06:13:44Z [COMMS] INFO downlink session complete
+2026-03-01T06:14:45Z [EPS] WARN bus voltage low 26.4 V
+2026-03-01T06:15:25Z [OBC] INFO housekeeping cycle complete
+2026-03-01T06:18:55Z [COMMS] INFO downlink session complete
+2026-03-01T06:21:17Z [THERMAL] INFO heater 1 on
+2026-03-01T06:25:55Z [ADCS] INFO star tracker lock acquired
+2026-03-01T06:29:52Z [PROP] INFO valve 1 closed
+2026-03-01T06:31:27Z [OBC] INFO command accepted
+2026-03-01T06:32:10Z [ADCS] INFO attitude nominal
+2026-03-01T06:36:36Z [EPS] INFO solar array current nominal
+2026-03-01T06:39:53Z [EPS] INFO solar array current nominal
+2026-03-01T06:43:37Z [COMMS] INFO downlink session complete
+2026-03-01T06:46:16Z [ADCS] INFO star tracker lock acquired
+2026-03-01T06:47:12Z [COMMS] INFO downlink session started
+2026-03-01T06:48:02Z [ADCS] WARN reaction wheel 2 speed high
+2026-03-01T06:48:42Z [OBC] INFO housekeeping cycle complete
+2026-03-01T06:53:14Z [PROP] INFO tank pressure nominal
+2026-03-01T06:57:42Z [PROP] INFO valve 1 closed
+2026-03-01T06:59:37Z [OBC] INFO time sync complete
+2026-03-01T07:01:05Z [EPS] ERROR battery undervoltage
+2026-03-01T07:01:48Z [COMMS] INFO downlink session complete
+2026-03-01T07:05:41Z [PROP] INFO thruster warm-up complete
+
+2026-03-01T07:08:15Z [ADCS] INFO sun sensor update received
+2026-03-01T07:09:46Z [OBC] INFO command accepted
+2026-03-01T06:00:00Z ADCS INFO mode change
+2026-03-01T07:13:55Z [PROP] INFO thruster warm-up complete
+2026-03-01T07:17:19Z [ADCS] WARN pointing error above 0.1 deg
+2026-03-01T07:18:43Z [THERMAL] ERROR heater 2 stuck on
+2026-03-01T07:20:31Z [THERMAL] INFO heater 1 off
+2026-03-01T07:23:19Z [OBC] WARN watchdog near timeout
+2026-03-01T07:27:47Z [THERMAL] WARN radiator temperature low
+2026-03-01T07:31:02Z [EPS] WARN battery temperature approaching limit
+2026-03-01T07:33:54Z [THERMAL] INFO heater 1 on
+2026-03-01T07:37:38Z [COMMS] INFO downlink session complete
+2026-03-01T07:39:41Z [THERMAL] INFO heater 1 on
+2026-03-01T07:43:05Z [COMMS] WARN packet retransmissions high
+2026-03-01T07:43:40Z [OBC] WARN memory usage above 80%
+03/01/2026 09:00 [THERMAL] INFO heater 1 on
+2026-03-01T07:46:13Z [PROP] INFO thruster warm-up complete
+2026-03-01T07:48:46Z [PROP] INFO thruster warm-up complete
+2026-03-01T07:53:27Z [THERMAL] INFO temperatures nominal
+2026-03-01T07:56:27Z [EPS] INFO battery charge nominal
+2026-03-01T07:59:33Z [PROP] INFO valve 1 closed
+2026-03-01T08:02:59Z [THERMAL] ERROR heater 2 stuck on
+2026-03-01T08:06:29Z [PROP] INFO valve 1 closed
+2026-03-01T08:09:07Z [EPS] INFO battery charge nominal
+2026-03-01T08:12:18Z [ADCS] INFO star tracker lock acquired
+2026-03-01T08:14:22Z [EPS] INFO solar array current nominal
+2026-03-01T08:17:13Z [PROP] INFO thruster warm-up complete
+2026-03-01T08:20:07Z [ADCS] WARN pointing error above 0.1 deg
+2026-03-01T08:22:33Z [COMMS] INFO downlink session started
+2026-03-01T08:24:07Z [COMMS] INFO downlink session started
+2026-03-01T08:27:06Z [PROP] WARN thruster 3 temperature high
+2026-03-01T08:28:28Z [ADCS] INFO sun sensor update received
+2026-03-01T08:33:03Z [THERMAL] INFO temperatures nominal
+2026-03-01T08:35:42Z [THERMAL] INFO temperatures nominal
+2026-03-01T08:39:37Z [THERMAL] INFO heater 1 off
+2026-03-01T08:40:34Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T08:43:39Z [ADCS] ERROR star tracker lock lost
+2026-03-01T08:47:42Z [OBC] INFO time sync complete
+2026-03-01T08:50:07Z [OBC] INFO command accepted
+2026-03-01T08:53:09Z [OBC] ERROR command rejected: checksum error
+2026-03-01T08:54:09Z [OBC] ERROR watchdog reset
+2026-03-01T08:56:25Z [PROP] INFO thruster warm-up complete
+2026-03-01T08:57:36Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T10:00:00Z [] INFO empty subsystem
+2026-03-01T08:58:44Z [EPS] INFO solar array current nominal
+2026-03-01T09:03:14Z [COMMS] INFO downlink session complete
+2026-03-01T09:06:08Z [PROP] WARN tank pressure drifting low
+2026-03-01T09:08:37Z [COMMS] INFO carrier lock acquired
+2026-03-01T09:10:48Z [THERMAL] INFO temperatures nominal
+2026-03-01T09:12:34Z [COMMS] WARN signal strength below threshold
+2026-03-01T09:13:34Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T09:16:31Z [THERMAL] INFO heater 1 off
+2026-03-01T09:19:36Z [PROP] INFO valve 1 closed
+2026-03-01T09:24:22Z [OBC] INFO housekeeping cycle complete
+2026-03-01T09:25:12Z [THERMAL] INFO heater 1 off
+2026-03-01T09:27:50Z [ADCS] INFO star tracker lock acquired
+2026-03-01T09:28:30Z [PROP] WARN tank pressure drifting low
+2026-03-01T09:30:29Z [THERMAL] INFO heater 1 on
+2026-03-01T09:33:21Z [EPS] ERROR solar array string 3 open circuit
+2026-03-01T09:38:02Z [ADCS] INFO sun sensor update received
+2026-03-01T09:41:22Z [COMMS] INFO downlink session started
+2026-03-01T09:44:40Z [THERMAL] INFO heater 1 on
+2026-03-01T09:48:35Z [OBC] INFO housekeeping cycle complete
+2026-03-01T09:51:46Z [COMMS] INFO downlink session complete
+2026-03-01T09:56:39Z [ADCS] INFO star tracker lock acquired
+2026-03-01T10:01:05Z [THERMAL] INFO heater 1 off
+2026-03-01T10:04:40Z [OBC] INFO time sync complete
+2026-03-01T10:08:56Z [ADCS] INFO star tracker lock acquired
+2026-03-01T10:10:33Z [COMMS] INFO carrier lock acquired
+2026-03-01T10:15:11Z [ADCS] INFO star tracker lock acquired
+2026-03-01T10:17:43Z [PROP] INFO thruster warm-up complete
+2026-03-01T10:18:20Z [OBC] INFO housekeeping cycle complete
+2026-03-01T10:19:48Z [THERMAL] WARN payload temperature high
+2026-03-01T10:24:33Z [PROP] INFO thruster warm-up complete
+2026-03-01T10:27:22Z [THERMAL] WARN radiator temperature low
+2026-03-01T10:29:56Z [THERMAL] INFO heater 1 on
+2026-03-01T10:32:03Z [OBC] INFO housekeeping cycle complete
+2026-03-01T10:33:08Z [COMMS] INFO downlink session complete
+2026-03-01T10:36:32Z [OBC] INFO housekeeping cycle complete
+2026-03-01T10:39:26Z [PROP] INFO thruster warm-up complete
+2026-03-01T10:44:06Z [EPS] INFO solar array current nominal
+2026-03-01T10:47:32Z [COMMS] INFO carrier lock acquired
+2026-03-01T10:51:15Z [THERMAL] WARN payload temperature high
+2026-03-01T10:53:47Z [OBC] INFO command accepted
+2026-03-01T10:54:39Z [COMMS] INFO carrier lock acquired
+2026-03-01T10:58:24Z [THERMAL] ERROR payload over-temperature
+2026-03-01T11:03:07Z [ADCS] INFO star tracker lock acquired
+2026-03-01T11:06:26Z [ADCS] WARN pointing error above 0.1 deg
+2026-03-01T11:07:47Z [OBC] WARN memory usage above 80%
+2026-03-01T11:09:30Z [THERMAL] WARN payload temperature high
+2026-03-01T11:10:38Z [THERMAL] INFO heater 1 on
+2026-03-01T11:14:01Z [OBC] INFO time sync complete
+2026-03-01T11:15:12Z [COMMS] WARN packet retransmissions high
+2026-03-01T11:18:24Z [PROP] INFO valve 1 closed
+2026-03-01T11:19:12Z [OBC] INFO time sync complete
+2026-03-01T11:22:09Z [EPS] INFO solar array current nominal
+2026-03-01T11:23:29Z [PROP] INFO tank pressure nominal
+2026-03-01T11:27:46Z [EPS] INFO battery charge nominal
+2026-03-01T11:28:39Z [COMMS] INFO downlink session complete
+2026-03-01T11:32:12Z [COMMS] INFO downlink session started
+2026-03-01T11:36:12Z [OBC] INFO housekeeping cycle complete
+2026-03-01T11:38:09Z [EPS] INFO solar array current nominal
+2026-03-01T11:40:42Z [THERMAL] WARN payload temperature high
+2026-03-01T11:43:10Z [THERMAL] INFO heater 1 on
+2026-03-01T11:45:50Z [PROP] INFO valve 1 closed
+2026-03-01T11:48:47Z [PROP] INFO tank pressure nominal
+2026-03-01T11:53:03Z [COMMS] ERROR transponder reset
+2026-03-01T11:57:10Z [PROP] INFO valve 1 closed
+2026-03-01T11:59:21Z [THERMAL] WARN payload temperature high
+2026-03-01T12:01:52Z [THERMAL] INFO heater 1 off
+2026-03-01T12:04:53Z [PROP] INFO thruster warm-up complete
+2026-03-01T12:08:45Z [COMMS] INFO carrier lock acquired
+2026-03-01T12:09:40Z [OBC] INFO command accepted
+2026-03-01T12:12:07Z [OBC] WARN memory usage above 80%
+2026-03-01T12:14:14Z [OBC] INFO time sync complete
+2026-03-01T12:15:54Z [PROP] INFO thruster warm-up complete
+2026-03-01T12:16:44Z [COMMS] INFO downlink session started
+2026-03-01T12:20:20Z [PROP] INFO valve 1 closed
+2026-03-01T12:23:37Z [PROP] INFO tank pressure nominal
+2026-03-01T12:25:14Z [OBC] WARN watchdog near timeout
+2026-03-01T12:30:00Z [COMMS] WARN packet retransmissions high
+2026-03-01T12:34:36Z [COMMS] INFO downlink session complete
+2026-03-01T12:36:04Z [THERMAL] ERROR payload over-temperature
+2026-03-01T12:38:29Z [PROP] INFO valve 1 closed
+2026-03-01T12:42:06Z [ADCS] INFO attitude nominal
+2026-03-01T12:44:51Z [OBC] INFO command accepted
+2026-03-01T12:47:35Z [OBC] INFO time sync complete
+2026-03-01T12:51:15Z [ADCS] INFO sun sensor update received
+2026-03-01T12:51:57Z [OBC] WARN watchdog near timeout
+2026-03-01T12:54:20Z [PROP] INFO valve 1 closed
+2026-03-01T12:57:24Z [PROP] INFO tank pressure nominal
+2026-03-01T12:58:17Z [ADCS] INFO sun sensor update received
+2026-03-01T12:59:46Z [ADCS] INFO star tracker lock acquired
+2026-03-01T13:01:25Z [THERMAL] INFO heater 1 off
+2026-03-01T13:05:29Z [OBC] INFO housekeeping cycle complete
+2026-03-01T13:09:31Z [PROP] INFO valve 1 closed
+2026-03-01T13:13:29Z [COMMS] INFO downlink session complete
+2026-03-01T13:15:50Z [THERMAL] INFO temperatures nominal
+2026-03-01T13:19:25Z [ADCS] ERROR reaction wheel 2 overspeed fault
+2026-03-01T13:22:58Z [ADCS] INFO attitude nominal
+2026-03-01T13:24:30Z [THERMAL] INFO temperatures nominal
+2026-03-01T13:25:10Z [ADCS] INFO attitude nominal
+2026-03-01T13:26:44Z [OBC] INFO time sync complete
+2026-03-01T13:29:00Z [OBC] INFO housekeeping cycle complete
+2026-03-01T13:32:18Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T13:32:49Z [COMMS] WARN signal strength below threshold
+2026-03-01T13:34:25Z [OBC] INFO housekeeping cycle complete
+2026-03-01T13:35:51Z [PROP] WARN tank pressure drifting low
+2026-03-01T13:36:28Z [COMMS] INFO downlink session started
+2026-03-01T13:39:43Z [ADCS] INFO attitude nominal
+2026-03-01T13:41:17Z [PROP] INFO tank pressure nominal
+2026-03-01T13:42:19Z [THERMAL] INFO heater 1 on
+2026-03-01T13:47:11Z [OBC] INFO time sync complete
+2026-03-01T13:49:34Z [OBC] INFO time sync complete
+2026-03-01T13:54:30Z [COMMS] INFO downlink session started
+2026-03-01T13:55:31Z [THERMAL] WARN radiator temperature low
+2026-03-01T13:56:56Z [THERMAL] INFO heater 1 on
+2026-03-01T13:58:03Z [ADCS] INFO attitude nominal
+2026-03-01T13:59:06Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T14:02:22Z [THERMAL] ERROR heater 2 stuck on
+2026-03-01T14:06:44Z [OBC] INFO housekeeping cycle complete
+2026-03-01T14:08:12Z [PROP] INFO thruster warm-up complete
+2026-03-01T14:10:32Z [THERMAL] INFO temperatures nominal
+2026-03-01T14:14:33Z [COMMS] WARN packet retransmissions high
+2026-03-01T14:18:35Z [PROP] INFO valve 1 closed
+2026-03-01T14:21:45Z [PROP] INFO tank pressure nominal
+2026-03-01T14:26:17Z [ADCS] INFO attitude nominal
+2026-03-01T14:27:34Z [THERMAL] INFO heater 1 off
+2026-03-01T14:31:14Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T14:34:32Z [PROP] INFO valve 1 closed
+2026-03-01T14:38:38Z [PROP] INFO valve 1 closed
+2026-03-01T14:41:47Z [COMMS] INFO carrier lock acquired
+2026-03-01T14:44:05Z [EPS] INFO battery charge nominal
+2026-03-01T14:45:30Z [COMMS] WARN packet retransmissions high
+2026-03-01T14:46:58Z [COMMS] INFO downlink session complete
+2026-03-01T14:47:41Z [OBC] WARN watchdog near timeout
+2026-03-01T14:48:25Z [EPS] INFO solar array current nominal
+2026-03-01T14:51:48Z [COMMS] INFO downlink session started
+2026-03-01T14:55:43Z [ADCS] INFO star tracker lock acquired
+2026-03-01T14:56:28Z [ADCS] INFO attitude nominal
+2026-03-01T15:00:10Z [THERMAL] INFO temperatures nominal
+2026-03-01T15:03:49Z [COMMS] INFO carrier lock acquired
+2026-03-01T15:05:02Z [ADCS] INFO star tracker lock acquired
+2026-03-01T15:05:57Z [PROP] INFO valve 1 closed
+2026-03-01T15:10:04Z [THERMAL] INFO heater 1 on
+2026-03-01T15:12:53Z [EPS] INFO battery charge nominal
+2026-03-01T15:16:19Z [THERMAL] INFO heater 1 off
+2026-03-01T15:20:58Z [OBC] INFO housekeeping cycle complete
+2026-03-01T15:23:20Z [THERMAL] ERROR payload over-temperature
+2026-03-01T15:23:53Z [EPS] INFO battery charge nominal
+2026-03-01T15:25:33Z [COMMS] INFO downlink session started
+2026-03-01T15:26:06Z [THERMAL] INFO temperatures nominal
+2026-03-01T15:27:42Z [THERMAL] INFO temperatures nominal
+2026-03-01T15:32:28Z [OBC] WARN watchdog near timeout
+2026-03-01T15:33:34Z [THERMAL] WARN payload temperature high
+2026-03-01T15:37:47Z [ADCS] INFO attitude nominal
+2026-03-01T15:40:57Z [OBC] INFO command accepted
+2026-03-01T15:45:00Z [COMMS] INFO downlink session started
+2026-03-01T15:48:16Z [EPS] WARN bus voltage low 26.4 V
+2026-03-01T15:51:51Z [ADCS] INFO attitude nominal
+2026-03-01T15:54:25Z [THERMAL] INFO heater 1 off
+2026-03-01T15:55:35Z [THERMAL] WARN radiator temperature low
+2026-03-01T15:57:58Z [COMMS] INFO downlink session started
+2026-03-01T16:02:49Z [PROP] INFO thruster warm-up complete
+2026-03-01T16:04:58Z [COMMS] INFO carrier lock acquired
+2026-03-01T16:06:43Z [EPS] INFO solar array current nominal
+2026-03-01T16:08:54Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T16:10:02Z [EPS] ERROR solar array string 3 open circuit
+2026-03-01T16:14:29Z [OBC] INFO command accepted
+2026-13-45T25:00:00Z [OBC] INFO reboot complete
+2026-03-01T16:17:44Z [PROP] INFO valve 1 closed
+2026-03-01T16:18:48Z [THERMAL] INFO heater 1 on
+2026-03-01T16:21:38Z [OBC] INFO time sync complete
+2026-03-01T16:22:45Z [COMMS] INFO downlink session started
+2026-03-01T16:23:44Z [COMMS] WARN signal strength below threshold
+2026-03-01T16:25:00Z [OBC] INFO command accepted
+2026-03-01T07:00:00Z [COMMS] DEBUGX signal check
+2026-03-01T16:29:26Z [OBC] INFO time sync complete
+2026-03-01T16:30:17Z [THERMAL] WARN payload temperature high
+2026-03-01T16:33:31Z [OBC] INFO housekeeping cycle complete
+2026-03-01T16:34:32Z [THERMAL] INFO heater 1 on
+2026-03-01T16:35:45Z [OBC] INFO housekeeping cycle complete
+2026-03-01T16:38:21Z [PROP] INFO valve 1 closed
+2026-03-01T16:43:19Z [OBC] INFO command accepted
+2026-03-01T16:46:59Z [COMMS] INFO downlink session complete
+2026-03-01T16:47:55Z [PROP] INFO tank pressure nominal
+2026-03-01T16:51:13Z [ADCS] INFO sun sensor update received
+garbage line with no structure
+2026-03-01T16:54:08Z [COMMS] INFO carrier lock acquired
+2026-03-01T16:55:54Z [COMMS] INFO carrier lock acquired
+2026-03-01T16:57:36Z [COMMS] INFO carrier lock acquired
+2026-03-01T17:01:26Z [EPS] INFO battery charge nominal
+2026-03-01T17:04:34Z [OBC] INFO command accepted
+2026-03-01T17:06:09Z [PROP] INFO thruster warm-up complete
+2026-03-01T17:11:08Z [ADCS] INFO sun sensor update received
+2026-03-01T17:15:58Z [COMMS] INFO downlink session complete
+2026-03-01T17:18:00Z [EPS] INFO solar array current nominal
+2026-03-01T17:20:08Z [EPS] ERROR battery undervoltage
+2026-03-01T17:21:17Z [COMMS] WARN signal strength below threshold
+2026-03-01T17:26:06Z [OBC] WARN memory usage above 80%
+2026-03-01T17:29:28Z [OBC] INFO command accepted
+2026-03-01T17:31:16Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T17:33:10Z [PROP] INFO valve 1 closed
+2026-03-01T17:36:46Z [PROP] INFO valve 1 closed
+2026-03-01T17:39:41Z [PROP] INFO tank pressure nominal
+2026-03-01T17:42:13Z [COMMS] ERROR transponder reset
+2026-03-01T17:44:22Z [COMMS] INFO carrier lock acquired
+2026-03-01T17:48:37Z [THERMAL] INFO heater 1 on
+2026-03-01T17:53:24Z [OBC] INFO housekeeping cycle complete
+2026-03-01T17:55:36Z [OBC] INFO command accepted
+2026-03-01T17:56:32Z [PROP] INFO valve 1 closed
+2026-03-01T17:57:54Z [PROP] WARN tank pressure drifting low
+2026-03-01T18:00:49Z [ADCS] INFO sun sensor update received
+2026-03-01T18:05:09Z [OBC] INFO command accepted
+2026-03-01T18:06:25Z [EPS] WARN bus voltage low 26.4 V
+2026-03-01T18:07:08Z [THERMAL] INFO heater 1 off
+2026-03-01T18:10:49Z [EPS] INFO battery charge nominal
+2026-03-01T18:14:30Z [EPS] INFO battery charge nominal
+2026-03-01T18:17:51Z [EPS] INFO solar array current nominal
+2026-03-01T18:22:22Z [PROP] WARN thruster 3 temperature high
+2026-03-01T18:26:41Z [OBC] INFO housekeeping cycle complete
+2026-03-01T18:27:20Z [COMMS] INFO downlink session started
+2026-03-01T18:32:20Z [THERMAL] INFO heater 1 on
+2026-03-01T18:34:51Z [COMMS] INFO downlink session started
+2026-03-01T18:38:55Z [PROP] INFO valve 1 closed
+2026-03-01T18:39:57Z [ADCS] WARN pointing error above 0.1 deg
+2026-03-01T18:40:35Z [PROP] INFO tank pressure nominal
+2026-03-01T18:42:18Z [COMMS] INFO carrier lock acquired
+2026-03-01T18:45:48Z [EPS] INFO battery charge nominal
+2026-03-01T18:47:01Z [OBC] ERROR watchdog reset
+2026-03-01T18:52:00Z [OBC] INFO time sync complete
+2026-03-01T18:52:40Z [THERMAL] WARN payload temperature high
+2026-03-01T18:56:28Z [COMMS] INFO downlink session started
+2026-03-01T19:00:00Z [ADCS] INFO star tracker lock acquired
+2026-03-01T19:01:23Z [OBC] INFO command accepted
+2026-03-01T19:03:01Z [ADCS] INFO sun sensor update received
+2026-03-01T19:05:00Z [PROP] INFO thruster warm-up complete
+2026-03-01T19:09:35Z [PROP] INFO tank pressure nominal
+2026-03-01T19:10:37Z [PROP] INFO valve 1 closed
+2026-03-01T19:11:25Z [COMMS] INFO downlink session started
+2026-03-01T19:12:16Z [COMMS] WARN packet retransmissions high
+2026-03-01T19:16:48Z [COMMS] INFO carrier lock acquired
+2026-03-01T08:00:00Z [PRO
+2026-03-01T19:18:55Z [COMMS] INFO downlink session started
+2026-03-01T19:22:14Z [COMMS] INFO downlink session complete
+2026-03-01T19:26:27Z [THERMAL] INFO heater 1 on
+2026-03-01T19:29:50Z [EPS] INFO solar array current nominal
+2026-03-01T05:00:00Z [EPS] battery nominal
+2026-03-01T19:33:28Z [OBC] INFO housekeeping cycle complete
+2026-03-01T19:37:35Z [ADCS] INFO attitude nominal
+2026-03-01T19:40:35Z [COMMS] INFO downlink session complete
+2026-03-01T19:43:36Z [COMMS] INFO carrier lock acquired
+2026-03-01T19:47:44Z [EPS] INFO solar array current nominal
+2026-03-01T19:52:02Z [ADCS] INFO sun sensor update received
+2026-03-01T19:56:14Z [COMMS] INFO downlink session started
+2026-03-01T19:57:22Z [PROP] INFO valve 1 closed
+2026-03-01T20:02:14Z [PROP] INFO tank pressure nominal
+2026-03-01T20:03:57Z [OBC] INFO command accepted
+2026-03-01T20:04:44Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T20:08:21Z [COMMS] INFO carrier lock acquired
+2026-03-01T20:09:07Z [OBC] INFO command accepted
+2026-03-01T20:12:46Z [COMMS] INFO downlink session started
+2026-03-01T20:14:26Z [OBC] INFO command accepted
+2026-03-01T20:17:18Z [EPS] ERROR battery undervoltage
+2026-03-01T20:19:23Z [THERMAL] INFO heater 1 off
+2026-03-01T20:20:53Z [COMMS] INFO carrier lock acquired
+2026-03-01T20:25:11Z [EPS] ERROR solar array string 3 open circuit
+2026-03-01T20:29:52Z [EPS] INFO battery charge nominal
+2026-03-01T20:34:13Z [EPS] WARN bus voltage low 26.4 V
+2026-03-01T20:35:27Z [PROP] ERROR thruster 3 underperformance
+2026-03-01T20:38:54Z [PROP] INFO thruster warm-up complete
+2026-03-01T20:41:52Z [COMMS] WARN signal strength below threshold
+2026-03-01T20:45:27Z [OBC] INFO housekeeping cycle complete
+2026-03-01T20:47:08Z [EPS] INFO battery charge nominal
+2026-03-01T20:50:42Z [OBC] INFO command accepted
+2026-03-01T20:52:18Z [OBC] WARN memory usage above 80%
+2026-03-01T20:55:26Z [THERMAL] ERROR heater 2 stuck on
+2026-03-01T21:00:25Z [THERMAL] INFO heater 1 off
+2026-03-01T21:01:32Z [EPS] ERROR battery undervoltage
+2026-03-01T21:05:52Z [THERMAL] INFO heater 1 on
+2026-03-01T21:07:27Z [OBC] INFO housekeeping cycle complete
+2026-03-01T21:09:03Z [THERMAL] INFO temperatures nominal
+2026-03-01T21:10:36Z [OBC] INFO housekeeping cycle complete
+2026-03-01T21:12:28Z [COMMS] WARN signal strength below threshold
+2026-03-01T21:15:55Z [OBC] WARN memory usage above 80%
+2026-03-01T21:18:33Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T21:21:23Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T21:22:40Z [OBC] INFO time sync complete
+2026-03-01T21:24:28Z [EPS] INFO bus voltage 28.1 V
+2026-03-01T21:27:50Z [OBC] INFO housekeeping cycle complete
+2026-03-01T21:29:01Z [ADCS] WARN pointing error above 0.1 deg
+2026-03-01T21:31:18Z [OBC] INFO time sync complete
+2026-03-01T21:32:03Z [THERMAL] WARN radiator temperature low
+2026-03-01T21:35:07Z [THERMAL] INFO heater 1 off
+2026-03-01T21:39:04Z [COMMS] INFO carrier lock acquired
+2026-03-01T21:40:04Z [EPS] INFO solar array current nominal
+2026-03-01T21:44:31Z [EPS] INFO battery charge nominal
