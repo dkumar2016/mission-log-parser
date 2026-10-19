@@ -1,0 +1,52 @@
+{
+  "total_lines": 500,
+  "valid": 490,
+  "malformed": 10,
+  "first_timestamp": "2026-03-01T00:01:27+00:00",
+  "last_timestamp": "2026-03-01T21:44:31+00:00",
+  "by_level": {
+    "INFO": 388,
+    "WARN": 76,
+    "ERROR": 26
+  },
+  "by_subsystem": {
+    "OBC": 98,
+    "THERMAL": 85,
+    "EPS": 83,
+    "COMMS": 81,
+    "PROP": 77,
+    "ADCS": 66
+  },
+  "by_subsystem_level": {
+    "ADCS": {
+      "INFO": 53,
+      "WARN": 11,
+      "ERROR": 2
+    },
+    "COMMS": {
+      "INFO": 63,
+      "WARN": 16,
+      "ERROR": 2
+    },
+    "EPS": {
+      "INFO": 63,
+      "WARN": 13,
+      "ERROR": 7
+    },
+    "OBC": {
+      "INFO": 81,
+      "WARN": 11,
+      "ERROR": 6
+    },
+    "PROP": {
+      "INFO": 67,
+      "WARN": 9,
+      "ERROR": 1
+    },
+    "THERMAL": {
+      "INFO": 61,
+      "WARN": 16,
+      "ERROR": 8
+    }
+  }
+}

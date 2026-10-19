@@ -1,0 +1,32 @@
+MISSION LOG DAILY REPORT
+========================
+Source:     data/ops_log.txt
+Time span:  2026-03-01 00:01:27 UTC to 2026-03-01 21:44:31 UTC
+Lines:      500 total, 490 valid, 10 malformed
+
+EVENTS BY LEVEL
+  INFO      388
+  WARN       76
+  ERROR      26
+
+EVENTS BY SUBSYSTEM
+  Subsystem   INFO  WARN  ERROR  Total
+  ADCS          53    11      2     66
+  COMMS         63    16      2     81
+  EPS           63    13      7     83
+  OBC           81    11      6     98
+  PROP          67     9      1     77
+  THERMAL       61    16      8     85
+  Total        388    76     26    490
+
+MALFORMED LINES (10)
+  line  68: too few fields: expected 4, got 3
+  line 163: too few fields: expected 4, got 0
+  line 166: invalid subsystem format: 'ADCS'
+  line 179: invalid timestamp (expected YYYY-MM-DDTHH:MM:SSZ): '03/01/2026'
+  line 207: subsystem must not be empty
+  line 373: invalid timestamp (expected YYYY-MM-DDTHH:MM:SSZ): '2026-13-45T25:00:00Z'
+  line 380: invalid level (expected INFO, WARN or ERROR): 'DEBUGX'
+  line 391: invalid timestamp (expected YYYY-MM-DDTHH:MM:SSZ): 'garbage'
+  line 446: too few fields: expected 4, got 2
+  line 451: invalid level (expected INFO, WARN or ERROR): 'battery'

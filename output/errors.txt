@@ -1,0 +1,26 @@
+2026-03-01T01:39:31Z [OBC] ERROR watchdog reset
+2026-03-01T01:57:46Z [THERMAL] ERROR heater 2 stuck on
+2026-03-01T03:38:26Z [OBC] ERROR watchdog reset
+2026-03-01T04:46:18Z [OBC] ERROR command rejected: checksum error
+2026-03-01T07:01:05Z [EPS] ERROR battery undervoltage
+2026-03-01T07:18:43Z [THERMAL] ERROR heater 2 stuck on
+2026-03-01T08:02:59Z [THERMAL] ERROR heater 2 stuck on
+2026-03-01T08:43:39Z [ADCS] ERROR star tracker lock lost
+2026-03-01T08:53:09Z [OBC] ERROR command rejected: checksum error
+2026-03-01T08:54:09Z [OBC] ERROR watchdog reset
+2026-03-01T09:33:21Z [EPS] ERROR solar array string 3 open circuit
+2026-03-01T10:58:24Z [THERMAL] ERROR payload over-temperature
+2026-03-01T11:53:03Z [COMMS] ERROR transponder reset
+2026-03-01T12:36:04Z [THERMAL] ERROR payload over-temperature
+2026-03-01T13:19:25Z [ADCS] ERROR reaction wheel 2 overspeed fault
+2026-03-01T14:02:22Z [THERMAL] ERROR heater 2 stuck on
+2026-03-01T15:23:20Z [THERMAL] ERROR payload over-temperature
+2026-03-01T16:10:02Z [EPS] ERROR solar array string 3 open circuit
+2026-03-01T17:20:08Z [EPS] ERROR battery undervoltage
+2026-03-01T17:42:13Z [COMMS] ERROR transponder reset
+2026-03-01T18:47:01Z [OBC] ERROR watchdog reset
+2026-03-01T20:17:18Z [EPS] ERROR battery undervoltage
+2026-03-01T20:25:11Z [EPS] ERROR solar array string 3 open circuit
+2026-03-01T20:35:27Z [PROP] ERROR thruster 3 underperformance
+2026-03-01T20:55:26Z [THERMAL] ERROR heater 2 stuck on
+2026-03-01T21:01:32Z [EPS] ERROR battery undervoltage
