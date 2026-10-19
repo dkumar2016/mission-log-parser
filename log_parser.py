@@ -8,13 +8,14 @@ import json
 import os
 
 
-VALID_LEVELS = {"INFO", "WARN", "ERROR"}          # used by parse_log_line
-LEVELS = ("INFO", "WARN", "ERROR")                # fixed output order
+VALID_LEVELS = {"INFO", "WARN", "ERROR"}
 TIMESTAMP_FORMAT = "%Y-%m-%dT%H:%M:%SZ"
+LEVELS = ("INFO", "WARN", "ERROR")   # fixed order for every output
 
 BASE_DIR = Path(__file__).resolve().parent
 INPUT_PATH = BASE_DIR / "data" / "ops_log.txt"
 OUTPUT_DIR = BASE_DIR / "output"
+
 
 def parse_log_line(line):
     """Parse 'TIMESTAMP [SUBSYSTEM] LEVEL message' into a dict.
@@ -89,10 +90,8 @@ def count_events(records):
 
 def time_span(records):
     """Return the earliest and latest timestamps in the records."""
-    timestamps = (r["timestamp"] for r in records)
-    first = min(timestamps)
-    last = max(r["timestamp"] for r in records)
-    return first, last
+    timestamps = [r["timestamp"] for r in records]
+    return min(timestamps), max(timestamps)
 
 ## Errors
 
@@ -182,14 +181,22 @@ def write_report(counts, first, last, n_valid, bad, path):
 
 
 
-if __name__ == "__main__":
+def main():
+    """Run the full pipeline: read, count, write the three outputs, print the report."""
     good, bad = read_log(INPUT_PATH)
     counts = count_events(good)
     first, last = time_span(good)
 
-    n_errors = write_errors(good, os.path.join(OUTPUT_DIR, "errors.txt"))
-    write_summary(counts, first, last, len(good), len(bad), os.path.join(OUTPUT_DIR, "summary.json"))
-    write_report(counts, first, last, len(good), bad, os.path.join(OUTPUT_DIR, "report.txt"))
+    n_errors = write_errors(good, OUTPUT_DIR / "errors.txt")
+    write_summary(counts, first, last, len(good), len(bad), OUTPUT_DIR / "summary.json")
+    report_lines = write_report(counts, first, last, len(good), bad, OUTPUT_DIR / "report.txt")
 
-    print(f"Read {len(good)} valid and {len(bad)} malformed lines")
-    print(f"Wrote {n_errors} errors, summary.json and report.txt to {OUTPUT_DIR}")
+    print("\n".join(report_lines))
+    print()
+    print(f"Wrote {n_errors} errors to {OUTPUT_DIR / 'errors.txt'}")
+    print(f"Wrote summary to {OUTPUT_DIR / 'summary.json'}")
+    print(f"Wrote report to {OUTPUT_DIR / 'report.txt'}")
+
+
+if __name__ == "__main__":
+    main()
