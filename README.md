@@ -156,7 +156,6 @@ Only `parse_log_line` knows the line format. Adapting the tool to a different gr
 
 ## Analysis: why structured logging matters at 3 a.m.
 
-*(Draft from the results above. Rewrite in your own words before pushing; this is the part an interviewer will ask you to explain.)*
 
 When every line has the same fields (time, subsystem, severity, message), an operator can ask precise questions of the log in seconds instead of reading it line by line. Two examples from this report:
 
